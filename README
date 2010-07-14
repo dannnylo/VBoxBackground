@@ -1,0 +1,3 @@
+O VBoxBackground é um sistema desenvolvido em Python que auxilia a rodar VM do VirtualBox em segundo plano.
+Possibilitando iniciar, parar e salvar o estado das máquinas virtuais.
+
